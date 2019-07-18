@@ -1,0 +1,40 @@
+/*
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }*/
+nav{    
+
+    color: white;
+}
+.header-one {
+	background-color:#F72210;
+    height: 95px;
+padding: 20px 10px 15px;
+}
+.news-logo{
+           width: 52%;
+}
+.header-time {
+	color: white;
+}
+.header-linktwo{
+	color:#F72210 !important;
+    font-weight: 900 !important;
+    background-color: white;
+    padding: 5px;
+  
+}
+.black-text {
+	color: black !important;
+        font-size: 19px;
+    border-right: 1px solid gainsboro;
+
+        font-weight: 700;
+}
