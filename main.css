@@ -12,14 +12,16 @@ html {
 nav{    
 
     color: white;
+    padding: 0px!important;
 }
 .header-one {
 	background-color:#F72210;
-    height: 95px;
-padding: 20px 10px 15px;
+      height: 73px;
+    width: 100%;
+/*padding: 20px 10px 15px;*/
 }
 .news-logo{
-           width: 52%;
+ width: 110%;
 }
 .header-time {
 	color: white;
@@ -38,3 +40,59 @@ padding: 20px 10px 15px;
 
         font-weight: 700;
 }
+.card-resize {
+	    padding: 0.25rem !important;
+}
+.mtop{
+        margin-top: 8rem!important;
+}
+.orange{
+        background-color: orangered;
+    color: white;
+    border-radius: 0;
+    font-weight: 900;
+}
+
+.bg__phone{
+    background-size: cover;
+    height: 348px;
+    background-repeat: no-repeat;
+    background-image: url('images/subscribe-img2.gif');
+}
+.top-story-fixed{
+   position: fixed;
+    left: 351.906px;
+    top: -478px;
+    width: 492px;
+   
+}.top-story-absolute{
+   position: absolute; left: 15px; top: 890px;     width: 492px;
+}
+@media (max-width: 575.98px) { 
+    .article-mt{
+margin-top: 157px;
+    }
+    .news-logo {
+    width: 60%;
+}
+
+}
+@media (max-width: 767.98px) { 
+.order__one {
+	order: 1;
+}
+    .order__two {
+	order: 2;
+}
+}
+
+@media (max-width: 991.98px) { 
+.top-story-fixed{
+   position:static;
+  
+     width: 477px;
+}.top-story-absolute{
+position:unset;
+}
+}
+
