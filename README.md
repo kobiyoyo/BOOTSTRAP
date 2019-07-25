@@ -7,6 +7,7 @@ Used:
  * BOOTSTRAP
  * HTML5
  * JAVASCRIPT
+ * CSS
  
  
  
