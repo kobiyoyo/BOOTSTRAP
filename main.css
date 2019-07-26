@@ -1,0 +1,77 @@
+
+nav{    
+
+    color: white;
+    padding: 0px!important;
+}
+.header-one {
+	background-color:#F72210;
+      height: 73px;
+    width: 100%;
+
+}
+.news-logo{
+ width: 110%;
+}
+.header-time {
+	color: white;
+}
+.header-linktwo{
+	color:#F72210 !important;
+    font-weight: 900 !important;
+    background-color: white;
+    padding: 5px;
+  
+}
+.black-text {
+	color: black !important;
+        font-size: 19px;
+    border-right: 1px solid gainsboro;
+
+        font-weight: 700;
+}
+.card-resize {
+	    padding: 0.25rem !important;
+}
+.mtop{
+        margin-top: 8rem!important;
+}
+.orange{
+        background-color: orangered;
+    color: white;
+    border-radius: 0;
+    font-weight: 900;
+}
+
+.bg__phone{
+    background-size: cover;
+    height: 348px;
+    background-repeat: no-repeat;
+    background-image: url('images/subscribe-img2.gif');
+}
+
+@media (max-width:480px) { 
+    .article-mt{
+margin-top: 157px;
+    }
+    .news-logo {
+    width: 60%;
+}
+   
+}
+@media (max-width: 768px) { 
+.order__one {
+	order: 1;
+}
+    .order__two {
+	order: 2;
+}
+     .flex-small{
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 1024px) { 
+
+}
+
