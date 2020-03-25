@@ -26,7 +26,7 @@ In this project, The main aim of this project is to use Bootstrap framework by b
 -  [Github](https://github.com/kobiyoyo)
 -  [Twitter](https://twitter.com/_kobiyoyo)
 -  [Linkedin](https://www.linkedin.com/in/chubiyojo-adama/)
--  [Email](adamachubi@gmail.com)
+-  [Email](mailto:adamachubi@gmail.com)
 
 
 
